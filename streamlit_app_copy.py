@@ -37,4 +37,4 @@ selected_district = st.selectbox("Select a district:", district_names)
 if selected_district:
     display_district_details(selected_district)
 else:
-    st.write("Please select a district to view the listings.")
+    st.write("Please select a district to view the listings..")
